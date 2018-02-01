@@ -1,7 +1,7 @@
 {
-  "name": "",
-  "version": "",
-  "description": "About =====",
+  "name": "Ankit Dutta",
+  "version": "1.0",
+  "description": "Node JS video chat app",
   "scripts": {
     "start": "node app.js"
   },
