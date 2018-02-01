@@ -3,7 +3,7 @@
   "version": "",
   "description": "About =====",
   "scripts": {
-    "start": "node signaling-server"
+    "start": "node app.js"
   },
   "dependencies": {
     "body-parser": "^1.15.2",
